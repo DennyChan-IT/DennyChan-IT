@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Denny</h1>
 
-
-## 💡 About Me
-
 I'm a full-stack developer passionate about building intuitive and scalable web applications.  
 Currently studying Web Development at [Cornerstone International College (CICCC)](https://ciccc.ca/) in Vancouver, I bring strong teamwork, clean code, and design‐system thinking to every project.
 
