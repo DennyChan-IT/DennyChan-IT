@@ -1,9 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Denny</h1>
-<p align="center"><strong>Full-Stack Web Developer | Next.js | TypeScript | MongoDB</strong></p>
 
----
 
 ## 💡 About Me
 
@@ -58,32 +56,19 @@ Currently studying Web Development at [Cornerstone International College (CICCC)
 
 ## 📌 Featured Projects
 
-### 📦 Immigration Dashboard
-A scalable internal tool for immigration consultants and applicants.  
-Built with Next.js, TypeScript, MongoDB, and Clerk, this dashboard supports dynamic tables, custom UIs, and reusable component architecture.
 
----
-
-### 🇯🇵 Hiragana App
-A fun and interactive app to learn Japanese Hiragana characters.  
-Built with React, Vite, and MongoDB, featuring secure login and personalized score tracking.
 
 ---
 
 ## 🖥️ Portfolio
 
-🚧 Currently under construction — **Coming soon...**
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [yuki44sonson@gmail.com](mailto:yuki44sonson@gmail.com)  
-- 👻 GitHub: [@reiz0](https://github.com/reiz0)  
-- 🔗 LinkedIn: [Yuki Higuchi](https://www.linkedin.com/in/yukihiguchi)
-
 ---
 
 ## Quick Stats
 
-![Yuki Higuchi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reiz0&show_icons=true&theme=dark)
+
