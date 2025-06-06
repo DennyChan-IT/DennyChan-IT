@@ -2,12 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Denny</h1>
 
-I'm a full-stack developer passionate about building intuitive and scalable web applications.  
-Currently studying Web Development at [Cornerstone International College (CICCC)](https://ciccc.ca/) in Vancouver, I bring strong teamwork, clean code, and design‐system thinking to every project.
+I’m a passionate web developer with a focus on creating beautiful, functional, and user-friendly websites. As a Web Developer, I'm proficient in a variety of programming languages and frameworks, including HTML, CSS. and Javascript. I have experience with popular technologies such as MongoDB, Express, React and NodeJS.
 
-- 🚀 Currently working with **Next.js**, **TypeScript**, **Shadcn UI**, and **MongoDB**  
-- 💬 Experienced in component‐based architecture and team development  
-- 🌱 Always learning about scalable systems, developer experience, and real‐time collaboration tools  
 
 ---
 
