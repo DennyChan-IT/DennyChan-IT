@@ -63,9 +63,9 @@ https://web-portfolio-dc.vercel.app/
 ---
 
 ## 📬 Contact Me
-[![Gmail](https://img.shields.io/badge/Email-denny.tanuji%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:denny.tan@gmail.com)   
-[![Github](https://img.shields.io/badge/Github-%40DennyChan--IT-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://github.com/DennyChan-IT)   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-denny--chan--it-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/denny-chan-it/)   
+[![Gmail](https://img.shields.io/badge/Email-denny.tanuji%40gmail.com-1E1E2D?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:denny.tan@gmail.com)   
+[![Github](https://img.shields.io/badge/Github-%40DennyChan--IT-1E1E2D?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://github.com/DennyChan-IT)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-denny--chan--it-1E1E2D?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/denny-chan-it/)   
 
 ---
 
