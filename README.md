@@ -4,25 +4,24 @@
 
 I’m a passionate web developer with a focus on creating beautiful, functional, and user-friendly websites. As a Web Developer, I'm proficient in a variety of programming languages and frameworks, including HTML, CSS. and Javascript. I have experience with popular technologies such as MongoDB, Express, React and NodeJS.
 
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 **Front-End Development:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Back-End Development:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Database:**  
@@ -42,17 +41,23 @@ I’m a passionate web developer with a focus on creating beautiful, functional,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
 ---
 
 ## 📌 Featured Projects
 
+[![Deploy Status](https://vercel.com/dennychan/point-of-sale-app-dc/badge)](https://point-of-sale-app-dc.vercel.app)
+### [Restaurant Point-Of-Sale](https://point-of-sale-app-dc.vercel.app/)
 
+A dynamic point-of-sale system built with Express, Node.js, MongoDB, and Mongoose.
+It manages menus, orders, and payments for a restaurant, featuring robust endpoints for real-time ordering and payment processing.
+
+### [ShiftEase](https://point-of-sale-app-dc.vercel.app/)
+
+ShiftEase is a comprehensive scheduling and shift management system designed for organizations. It features dynamic availability management, role-based requests/approvals, and real-time scheduling updates—built with React, TypeScript, and Tailwind on the frontend, and Express, Prisma, and PostgreSQL on the backend.
 
 ---
 
 ## 🖥️ Portfolio
-
 
 ---
 
@@ -61,5 +66,3 @@ I’m a passionate web developer with a focus on creating beautiful, functional,
 ---
 
 ## Quick Stats
-
-
