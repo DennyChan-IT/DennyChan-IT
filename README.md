@@ -57,7 +57,7 @@ ShiftEase is a comprehensive scheduling and shift management system designed for
 ---
 
 ## 🖥️ Portfolio
-Check out my portfolio:
+Check out my portfolio:  
 https://web-portfolio-dc.vercel.app/
 
 ---
