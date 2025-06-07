@@ -63,7 +63,7 @@ https://web-portfolio-dc.vercel.app/
 ---
 
 ## 📬 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Email-denny.tan%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=blue)](mailto:denny.tan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-denny.tan%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:denny.tan@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Denny%20Tan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%40denny_tan-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/denny_tan)
 [![Website Badge](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square&logo=vercel&logoColor=white)](https://web-portfolio-dc.vercel.app/)
