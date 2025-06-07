@@ -70,3 +70,5 @@ https://web-portfolio-dc.vercel.app/
 ---
 
 ## Quick Stats
+![Denny’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DennyChan-IT&show_icons=true&theme=github_dark)
+
