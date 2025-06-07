@@ -45,15 +45,14 @@ I’m a passionate web developer with a focus on creating beautiful, functional,
 
 ## 📌 Featured Projects
 
-[![Deploy Status](https://vercel.com/dennychan/point-of-sale-app-dc/badge.svg?style=flat-square)](https://point-of-sale-app-dc.vercel.app)
 ### [Restaurant Point-Of-Sale](https://point-of-sale-app-dc.vercel.app/)
 
 A dynamic point-of-sale system built with Express, Node.js, MongoDB, and Mongoose.
 It manages menus, orders, and payments for a restaurant, featuring robust endpoints for real-time ordering and payment processing.
 
-### [ShiftEase](https://point-of-sale-app-dc.vercel.app/)
+### [ShiftEase](https://shift-ease-app.vercel.app/)
 
-ShiftEase is a comprehensive scheduling and shift management system designed for organizations. It features dynamic availability management, role-based requests/approvals, and real-time scheduling updates—built with React, TypeScript, and Tailwind on the frontend, and Express, Prisma, and PostgreSQL on the backend.
+ShiftEase is a comprehensive scheduling and shift management system designed for organizations. It features dynamic availability management, role-based requests/approvals, and real-time scheduling updates—built with React, TypeScript, and Tailwind on the frontend, and Express, Prisma, and Supabase on the backend.
 
 ---
 
