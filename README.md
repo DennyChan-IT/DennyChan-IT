@@ -45,7 +45,7 @@ I’m a passionate web developer with a focus on creating beautiful, functional,
 
 ## 📌 Featured Projects
 
-[![Deploy Status](https://vercel.com/dennychan/point-of-sale-app-dc/badge)](https://point-of-sale-app-dc.vercel.app)
+[![Deploy Status](https://vercel.com/dennychan/point-of-sale-app-dc/badge.svg?style=flat-square)](https://point-of-sale-app-dc.vercel.app)
 ### [Restaurant Point-Of-Sale](https://point-of-sale-app-dc.vercel.app/)
 
 A dynamic point-of-sale system built with Express, Node.js, MongoDB, and Mongoose.
