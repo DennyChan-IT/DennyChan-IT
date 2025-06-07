@@ -63,11 +63,9 @@ https://web-portfolio-dc.vercel.app/
 ---
 
 ## 📬 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Email-denny.tan%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:denny.tan@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Denny%20Tan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%40denny_tan-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/denny_tan)
-[![Website Badge](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square&logo=vercel&logoColor=white)](https://web-portfolio-dc.vercel.app/)
-[![Resume Badge](https://img.shields.io/badge/Resume-PDF-lightgrey?style=flat-square&logo=adobepdf&logoColor=red)](https://your-domain.com/denny-tan-resume.pdf)
+[![Gmail](https://img.shields.io/badge/Email-denny.tanuji%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=c14438)](mailto:denny.tan@gmail.com)   
+[![Github](https://img.shields.io/badge/Github-%40DennyChan--IT-000000?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://twitter.com/denny_tan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-denny--chan--it-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/your-linkedin-username/)   
 
 ---
 
