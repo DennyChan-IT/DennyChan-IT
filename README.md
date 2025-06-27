@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denny</h1>
+<h1 align="center">Hi 👋, I'm Denny Chan</h1>
 
 I’m a passionate web developer with a focus on creating beautiful, functional, and user-friendly websites. As a Web Developer, I'm proficient in a variety of programming languages and frameworks, including HTML, CSS. and Javascript. I have experience with popular technologies such as MongoDB, Express, React and NodeJS.
 
